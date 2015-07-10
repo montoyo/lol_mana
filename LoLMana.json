@@ -1,0 +1,22 @@
+{
+	"api": {
+		"host": "euw.api.pvp.net",
+		"key": "nope.avi"
+	},
+	
+	"player": {
+		"region": "euw",
+		"platform": "EUW1",
+		"summoner": "BuildLight"
+	},
+	
+	"alarm": {
+		"frequency": 750,
+		"time": 500,
+		"pause": 2000
+	},
+	
+	"champions": {
+		"Diana": 385
+	}
+}
